@@ -23,6 +23,7 @@ function findMax(arr) {
 }
 //let max = -1/0;
 console.log(findMax([10, 20, 30, 5])); // 30
+<<<<<<< HEAD
 
 //Bài 3
 
@@ -37,3 +38,5 @@ function filterArray(arr) {
 }
 
 console.log(filterArray([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
+=======
+>>>>>>> f230b1e4594c7c99f00fa0213870720accf99c52
